@@ -1,0 +1,318 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/depression--phenotype-xmajor---primary.py
+inputModule3:
+  class: File
+  path: python/depression--phenotype-psychosis---primary.py
+inputModule4:
+  class: File
+  path: python/depression--phenotype-unspecified---primary.py
+inputModule5:
+  class: File
+  path: python/current-depression--phenotype---primary.py
+inputModule6:
+  class: File
+  path: python/psychotic-depression--phenotype---primary.py
+inputModule7:
+  class: File
+  path: python/other-depression--phenotype---primary.py
+inputModule8:
+  class: File
+  path: python/phenotype-depression---primary.py
+inputModule9:
+  class: File
+  path: python/moderate-depression--phenotype---primary.py
+inputModule10:
+  class: File
+  path: python/partial-depression--phenotype---primary.py
+inputModule11:
+  class: File
+  path: python/depression--phenotype-episode---primary.py
+inputModule12:
+  class: File
+  path: python/depression--phenotype-dysthymia---primary.py
+inputModule13:
+  class: File
+  path: python/reactive-depression--phenotype---primary.py
+inputModule14:
+  class: File
+  path: python/depression--phenotype-remission---primary.py
+inputModule15:
+  class: File
+  path: python/mixed-depression--phenotype---primary.py
+inputModule16:
+  class: File
+  path: python/depression--phenotype-anxiety---primary.py
+inputModule17:
+  class: File
+  path: python/depression--phenotype-sinepin---primary.py
+inputModule18:
+  class: File
+  path: python/depression--phenotype-review---primary.py
+inputModule19:
+  class: File
+  path: python/depression--phenotype-interest---primary.py
+inputModule20:
+  class: File
+  path: python/depression--phenotype-depressed---primary.py
+inputModule21:
+  class: File
+  path: python/depression---primary.py
+inputModule22:
+  class: File
+  path: python/depression--phenotype-375mg---primary.py
+inputModule23:
+  class: File
+  path: python/depression--phenotype-sertraline---primary.py
+inputModule24:
+  class: File
+  path: python/depression--phenotype-anafranil---primary.py
+inputModule25:
+  class: File
+  path: python/depression--phenotype-500mg---primary.py
+inputModule26:
+  class: File
+  path: python/depression--phenotype-300mg---primary.py
+inputModule27:
+  class: File
+  path: python/depression--phenotype-butriptyline---primary.py
+inputModule28:
+  class: File
+  path: python/depression--phenotype-doxepin---primary.py
+inputModule29:
+  class: File
+  path: python/depression--phenotype-dosulepin---primary.py
+inputModule30:
+  class: File
+  path: python/depression--phenotype-tryptophan---primary.py
+inputModule31:
+  class: File
+  path: python/depression--phenotype-solution---primary.py
+inputModule32:
+  class: File
+  path: python/depression--phenotype-lofepramine---primary.py
+inputModule33:
+  class: File
+  path: python/depression--phenotype-nortriptyline---primary.py
+inputModule34:
+  class: File
+  path: python/depression--phenotype-tablet---primary.py
+inputModule35:
+  class: File
+  path: python/depression--phenotype-limbitrol---primary.py
+inputModule36:
+  class: File
+  path: python/depression--phenotype-trimipramine---primary.py
+inputModule37:
+  class: File
+  path: python/depression--phenotype-injection---primary.py
+inputModule38:
+  class: File
+  path: python/depression--phenotype-paroxetine---primary.py
+inputModule39:
+  class: File
+  path: python/depression--phenotype-fluoxetine---primary.py
+inputModule40:
+  class: File
+  path: python/depression--phenotype-lentizol---primary.py
+inputModule41:
+  class: File
+  path: python/depression--phenotype-amitript---primary.py
+inputModule42:
+  class: File
+  path: python/depression--phenotype-thaden---primary.py
+inputModule43:
+  class: File
+  path: python/depression--phenotype-prozac---primary.py
+inputModule44:
+  class: File
+  path: python/depression--phenotype-mianserin---primary.py
+inputModule45:
+  class: File
+  path: python/depression--phenotype-fluanxol---primary.py
+inputModule46:
+  class: File
+  path: python/depression--phenotype-maleate---primary.py
+inputModule47:
+  class: File
+  path: python/depression--phenotype-trazodone---primary.py
+inputModule48:
+  class: File
+  path: python/depression--phenotype-viloxazine---primary.py
+inputModule49:
+  class: File
+  path: python/depression--phenotype-rodomel---primary.py
+inputModule50:
+  class: File
+  path: python/depression--phenotype-norval---primary.py
+inputModule51:
+  class: File
+  path: python/depression--phenotype-prothiaden---primary.py
+inputModule52:
+  class: File
+  path: python/depression--phenotype-flupentixol---primary.py
+inputModule53:
+  class: File
+  path: python/depression--phenotype-capsule---primary.py
+inputModule54:
+  class: File
+  path: python/depression--phenotype-allegron---primary.py
+inputModule55:
+  class: File
+  path: python/depression--phenotype-amoxapine---primary.py
+inputModule56:
+  class: File
+  path: python/depression--phenotype-concordin---primary.py
+inputModule57:
+  class: File
+  path: python/marsilid-depression--phenotype---primary.py
+inputModule58:
+  class: File
+  path: python/depression--phenotype-optimax---primary.py
+inputModule59:
+  class: File
+  path: python/depression--phenotype-seroxat---primary.py
+inputModule60:
+  class: File
+  path: python/depression--phenotype-molipaxin---primary.py
+inputModule61:
+  class: File
+  path: python/depression--phenotype-clomipramine---primary.py
+inputModule62:
+  class: File
+  path: python/depression--phenotype-sinequan---primary.py
+inputModule63:
+  class: File
+  path: python/depression--phenotype-aventyl---primary.py
+inputModule64:
+  class: File
+  path: python/depression--phenotype-syrup---primary.py
+inputModule65:
+  class: File
+  path: python/depression--phenotype-100mg---primary.py
+inputModule66:
+  class: File
+  path: python/depression--phenotype-elavil---primary.py
+inputModule67:
+  class: File
+  path: python/depression--phenotype-compound---primary.py
+inputModule68:
+  class: File
+  path: python/depression--phenotype-iprindole---primary.py
+inputModule69:
+  class: File
+  path: python/depression--phenotype-maprotiline---primary.py
+inputModule70:
+  class: File
+  path: python/depression--phenotype-venlafaxine---primary.py
+inputModule71:
+  class: File
+  path: python/isocarboxazid-depression--phenotype---primary.py
+inputModule72:
+  class: File
+  path: python/depression--phenotype-powder---primary.py
+inputModule73:
+  class: File
+  path: python/iproniazid-depression--phenotype---primary.py
+inputModule74:
+  class: File
+  path: python/depression--phenotype-dothapax---primary.py
+inputModule75:
+  class: File
+  path: python/depression--phenotype-asendi---primary.py
+inputModule76:
+  class: File
+  path: python/depression--phenotype-evadyne---primary.py
+inputModule77:
+  class: File
+  path: python/depression--phenotype-protriptyline---primary.py
+inputModule78:
+  class: File
+  path: python/depression--phenotype-prondol---primary.py
+inputModule79:
+  class: File
+  path: python/depression--phenotype-praminil---primary.py
+inputModule80:
+  class: File
+  path: python/depression--phenotype-x28cp---primary.py
+inputModule81:
+  class: File
+  path: python/depression--phenotype-citalopram---primary.py
+inputModule82:
+  class: File
+  path: python/depression--phenotype-prepadine---primary.py
+inputModule83:
+  class: File
+  path: python/dispersible-depression--phenotype---primary.py
+inputModule84:
+  class: File
+  path: python/depression--phenotype-gamanil---primary.py
+inputModule85:
+  class: File
+  path: python/depression--phenotype-500microgram---primary.py
+inputModule86:
+  class: File
+  path: python/domical-depression--phenotype---primary.py
+inputModule87:
+  class: File
+  path: python/depression--phenotype-surmontil---primary.py
+inputModule88:
+  class: File
+  path: python/depression--phenotype-moclobemide---primary.py
+inputModule89:
+  class: File
+  path: python/depression--phenotype-tofranil---primary.py
+inputModule90:
+  class: File
+  path: python/depression--phenotype-phenelzine---primary.py
+inputModule91:
+  class: File
+  path: python/depression--phenotype-ludiomil---primary.py
+inputModule92:
+  class: File
+  path: python/depression--phenotype-tranylcypromine---primary.py
+inputModule93:
+  class: File
+  path: python/depression--phenotype-escitalopram---primary.py
+inputModule94:
+  class: File
+  path: python/depression--phenotype-efexor---primary.py
+inputModule95:
+  class: File
+  path: python/depression--phenotype-x56cp---primary.py
+inputModule96:
+  class: File
+  path: python/depression--phenotype-manerix---primary.py
+inputModule97:
+  class: File
+  path: python/depression--phenotype-antidepressant---primary.py
+inputModule98:
+  class: File
+  path: python/depression--phenotype-faverin---primary.py
+inputModule99:
+  class: File
+  path: python/depression--phenotype-tryptizol---primary.py
+inputModule100:
+  class: File
+  path: python/depression--phenotype-tranquax---primary.py
+inputModule101:
+  class: File
+  path: python/depression--phenotype-lomont---primary.py
+inputModule102:
+  class: File
+  path: python/depression--phenotype-desipramine---primary.py
+inputModule103:
+  class: File
+  path: python/depression--phenotype-suspension---primary.py
+inputModule104:
+  class: File
+  path: python/lustral-depression--phenotype---primary.py
+inputModule105:
+  class: File
+  path: python/depression--phenotype-bolvidon---primary.py
+inputModule106:
+  class: File
+  path: python/output-cases.py
